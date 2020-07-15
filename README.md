@@ -6,8 +6,8 @@
 ##### (51) 9999-18720
 ##### eduardovivaa@gmail.com
 &nbsp;
-![Github](https://i.ibb.co/RbFq7Wv/Github-icon.png) /eduviva
-![Linkedin](https://i.ibb.co/GRZkNVp/Linkedin-icon.png) /in/edu-viva
+![Github](https://i.ibb.co/RbFq7Wv/Github-icon.png) /eduviva\
+![Linkedin](https://i.ibb.co/GRZkNVp/Linkedin-icon.png) /in/edu-viva\
 
 -----
 #### Sobre Mim
