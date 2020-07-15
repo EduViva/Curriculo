@@ -16,12 +16,12 @@ Também sou desenvolvedor front-end por hobby com conhecimento nos frameworks Bo
 
 #### Experiência profissional
 ##### Carlos Eduardo Imóveis - Imobiliária
-Área: Informática ~ Marketing
-Cargo: Digitador ~ Agenciador de propaganda
+Área: Informática ~ Marketing\
+Cargo: Digitador ~ Agenciador de propaganda\
 Período: Nov/2017 ~ Presente
 
 ###### O contato constante com o público e a expertise de trabalhar com o marketing me qualificam no entendimento e entrega de conteúdos relacionados ao melhor aproveitamento do usuário.
-&nbsp;
+
 #### Formação 
 - Análise e desenvolvimento de sistemas, Unicesumar – Término: Setembro de 2020.
 
